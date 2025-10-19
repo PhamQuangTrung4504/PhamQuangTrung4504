@@ -47,16 +47,16 @@
 
 ---
 
-### GitHub Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PhamQuangTrung4504&theme=algolia&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhamQuangTrung4504&hide_border=true&theme=default" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=PhamQuangTrung4504&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
-
----
-
 ### GitHub Analytics
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=PhamQuangTrung4504&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamQuangTrung4504&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
+
+---
+
+### GitHub Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PhamQuangTrung4504&theme=algolia&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhamQuangTrung4504&hide_border=true&theme=default" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=PhamQuangTrung4504&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 ---
 
