@@ -5,7 +5,7 @@ My name is **Pham Quang Trung**
 🚀 I'm focusing on learning **AI**, **Machine Learning**, and **modern web technologies**.  
 🧠 My main skills are **C#**, **ASP.NET Core**, **JavaScript**, and **Flutter**.  
 🌱 I love building apps that make people’s lives easier and more efficient.  
-📫 Contact me at: **[your_email@gmail.com]**  
+📫 Contact me at: **[phamquangtrung4504@gmail.com]**  
 
 ### ⚙️ My Skills & Tools  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
