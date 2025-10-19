@@ -1,51 +1,76 @@
 <p align="center">
-  <img src="images/avatar.png" alt="Pham Quang Trung" width="130" style="border-radius:50%; object-fit:cover;" />
+  <img src="images/avatar.png" alt="Pham Quang Trung" width="140" style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 10px rgba(0,0,0,0.15);" />
 </p>
 
 <h1 align="center">Hi, I'm Phạm Quang Trung</h1>
 <p align="center">
   <strong>Fourth-year Software Engineering Student</strong> at <strong>Ho Chi Minh City University of Technology (HUTECH)</strong><br/>
-  Focused on <strong>Software Development</strong>, <strong>Web Systems</strong>, and <strong>AI-powered Applications</strong><br/>
+  Specialized in <strong>Software Development</strong>, <strong>Web Systems</strong>, and <strong>AI-driven Applications</strong><br/>
   Based in Ho Chi Minh City, Vietnam
 </p>
 
 ---
 
-###  About Me
-- Passionate about building **efficient**, **scalable**, and **elegant** software solutions.  
+### About Me
+- I’m passionate about creating **high-performance**, **scalable**, and **well-crafted** digital products.  
 - Skilled in **C#**, **ASP.NET Core**, **Flutter**, **JavaScript**, **SQL**, and **Java**.  
-- Continuously learning and exploring **AI**, **backend optimization**, and **mobile development**.  
-
-**Reach me at:**
-- Email: [phamquangtrung4504@gmail.com](mailto:phamquangtrung4504@gmail.com)
-- [Facebook](https://www.facebook.com/pqtrung72)
-- [Zalo](https://zalo.me/0326658276)
-- [TikTok](https://www.tiktok.com/@trungdicodedao)
+- Currently focusing on **backend architecture**, **AI integration**, and **cross-platform development**.  
+- Always open to collaboration, innovation, and continuous learning.
 
 ---
 
-###  Tech Stack
+### Connect With Me
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt="ASP.NET Core" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+  <a href="mailto:phamquangtrung4504@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/pqtrung72" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://zalo.me/0326658276" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/zalo.svg" alt="Zalo" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@trungdicodedao" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tiktok/tiktok-original.svg" alt="TikTok" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-###  GitHub Analytics
+### Tech Stack
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PhamQuangTrung4504&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamQuangTrung4504&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" alt="ASP.NET Core" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" alt="Visual Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
+</p>
+
+---
+
+### Achievements & Highlights
+-  Developed multiple **ASP.NET Core MVC** and **Flutter** projects with real deployment.  
+-  Experienced with **SQL optimization**, **RESTful APIs**, and **modular architecture**.  
+-  Built interactive web and mobile apps emphasizing **UX clarity** and **performance efficiency**.  
+-  Selected for advanced **AI backend optimization research** at university lab.  
+-  Consistently improving personal projects with modern frameworks and DevOps tools.
+
+---
+
+### GitHub Analytics
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PhamQuangTrung4504&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamQuangTrung4504&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 <p align="center">
-  <sub>© 2025 Phạm Quang Trung | Built with passion and precision</sub>
+  <sub>© 2025 Phạm Quang Trung | Crafted with precision, curiosity, and clean code.</sub>
 </p>
