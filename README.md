@@ -20,23 +20,7 @@
 ---
 
 ### Connect With Me
-<p align="center">
-  <a href="mailto:phamquangtrung4504@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/pqtrung72" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://zalo.me/0326658276" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/zalo.svg" alt="Zalo" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@trungdicodedao" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tiktok/tiktok-original.svg" alt="TikTok" width="40" height="40"/>
-  </a>
-</p>
+<p align="center"> <a href="mailto:phamquangtrung4504@gmail.com" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="48" height="48" style="border-radius:10px; margin-right:15px;"/> </a> <a href="https://www.facebook.com/pqtrung72" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Facebook" width="48" height="48" style="border-radius:10px; margin-right:15px;"/> </a> <a href="https://zalo.me/0326658276" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Icon_of_Zalo.svg" alt="Zalo" width="48" height="48" style="border-radius:10px; margin-right:15px;"/> </a> <a href="https://www.tiktok.com/@trungdicodedao" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" alt="TikTok" width="48" height="48" style="border-radius:10px;"/> </a> </p>
 
 ---
 
